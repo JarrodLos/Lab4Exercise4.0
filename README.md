@@ -16,7 +16,7 @@ public class Triangle extends Shape {
 
 Step 4: 
 At bottom of page commit your file with the shape you chose (someshape.java)
-Add a comment saying adding new class ____ extending shape 
+Add a comment saying adding new class ____ extending shape. 
 Create a new branch and start a pull request with the masterbranch
 
 Step 5:
