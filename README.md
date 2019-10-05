@@ -1,7 +1,5 @@
 # Lab4Exercise4.0
 
-Do Yourself:
-
 Step 1:
 Go through file path Lab4Exercise4.0/app/src/main/java/com/example/lab4exercise
 
