@@ -6,7 +6,7 @@ public abstract class Shape {
     private int y;
 
     // Add your colors:
-
+    String red = "RED";
 
 
 
