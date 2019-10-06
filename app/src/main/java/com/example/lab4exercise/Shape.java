@@ -6,11 +6,12 @@ public abstract class Shape {
     private int y;
 
     // Add your colors:
-    String red = "RED";
-
+    String color = "Black";
+    String color = "RED";
+    String color = "blue";
 
 
 
     // Last step
-    String color = "blue";
+    String color = "$PUT_YOUR_CHOICE_OF_COLOR";
 }
