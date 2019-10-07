@@ -1,5 +1,5 @@
 package com.example.lab4exercise;
 
-public class Triangle extends Shape {
+public class Circle extends Shape {
   int radius;
 }
